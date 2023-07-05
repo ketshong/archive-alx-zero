@@ -1,0 +1,48 @@
+[33mcommit bb2b2b6948a8685d35e70d5a09f7f3b70aacea85[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Sait Ketshongo <ketshongprofessional@gmail.com>
+Date:   Tue Jul 4 11:58:20 2023 -0700
+
+    How to be up to date in git
+
+[33mcommit bfd1f1d38e90e5bbd7f3bfaa3e2bde9344f0f52a[m
+Merge: d729e10 ef914c9
+Author: Sait Ketshongo <ketshongprofessional@gmail.com>
+Date:   Tue Jul 4 11:54:54 2023 -0700
+
+    Merge branch 'master' of https://github.com/Ketshong/alx-zero_day
+
+[33mcommit d729e1047153afb515625a4fe9a772b75e9a5e10[m
+Author: Sait Ketshongo <ketshongprofessional@gmail.com>
+Date:   Tue Jul 4 11:52:13 2023 -0700
+
+    How to be up to date in git
+
+[33mcommit ef914c9001e1d927bb5683c7c99a54e63574dd04[m
+Author: Ezechiel LUBO <117805451+ketshong@users.noreply.github.com>
+Date:   Tue Jul 4 19:19:17 2023 +0100
+
+    Update README.md
+
+[33mcommit 49775972b9066e18b498b8bb19bf75e33d7293b4[m
+Author: Sait Ketshongo <ketshongprofessional@gmail.com>
+Date:   Tue Jul 4 08:34:29 2023 -0700
+
+    Hot fix
+
+[33mcommit 8b55d0b6cafc8ce601dbe4b7d566b9033b47794b[m
+Author: Sait Ketshongo <ketshongprofessional@gmail.com>
+Date:   Tue Jul 4 03:50:34 2023 -0700
+
+    Starting to code today, so cool
+
+[33mcommit f2bc2ff75bc9b7d7760f7a76b3d35b8d73e23d70[m
+Author: Sait Ketshongo <ketshongprofessional@gmail.com>
+Date:   Tue Jul 4 03:35:44 2023 -0700
+
+    Principal git's directory
+
+[33mcommit 2fb8a3063c9fe3e09e5ed9b4111f38b0d0338fc6[m
+Author: Sait Ketshongo <ketshongprofessional@gmail.com>
+Date:   Tue Jul 4 03:26:48 2023 -0700
+
+    My first commit
